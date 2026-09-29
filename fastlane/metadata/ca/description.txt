@@ -1,0 +1,16 @@
+Fortello és una alineació d'art a quatre teles. Reparteixes una línia escrita — el nom d'un artista o el títol d'una obra — i toques la pintura que hi correspon entre quatre teles penjades. És per a qui vol un qüestionari breu, al dispositiu, amb obres de domini públic del Museu Metropolità d'Art.
+
+• Alineació de quatre teles a l'inici, amb l'etiqueta "CALL THE LINEUP"
+• "Deal" escriu una línia "ARTIST" o "TITLE" i penja quatre teles
+• Toca la tela que hi correspon per cridar-la; un error estampa "MISS", atenua aquella tela i manté la línia
+• Les obres cridades descansen i surten de la reserva de Deal; s'arxiven a "Called" de "Saved"
+• Els errors resten a "Saved" sota "Misses"
+• "Undo" retira l'última crida o error
+• Cerca "Explore" al Museu Metropolità d'Art, "Save" com a Loose, i un prestatge local quan la cerca no respon o falla
+• Recompte del grup Loose "LOOSE" a la cartellera
+• Rellotge Go (compte enrere, després "GO"; "HOLD" quan no hi ha cap línia oberta) i un percentatge de puntualitat després d'una crida correcta
+• Full "How to call"
+• "Settings": recomptes de la caixa, crèdit de la col·lecció, "Contact", "Re-run onboarding", "Reset the crate"
+• Frases de Siri / Dreceres: "Open Quiz in Fortello", "Call the lineup in Fortello", "Open Explore in Fortello", "Open Saved in Fortello", "Open Settings in Fortello", "Deal a line in Fortello", "How to call in Fortello"
+
+Només en vertical a l'iPhone i l'iPad. Només aparença clara. Les obres, les crides i els errors resten en aquest dispositiu.

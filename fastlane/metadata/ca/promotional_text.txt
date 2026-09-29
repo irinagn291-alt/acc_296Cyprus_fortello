@@ -1,0 +1,1 @@
+Deal escriu una línia ARTIST o TITLE i penja quatre teles. Toca la tela corresponent. Les obres cridades descansen. Els errors resten a Saved. Undo lleva l'última marca.

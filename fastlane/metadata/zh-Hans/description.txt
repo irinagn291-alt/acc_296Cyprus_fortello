@@ -1,0 +1,16 @@
+Fortello 是四幅画布的艺术列队。你发出一行文字——艺术家姓名或作品标题——再从四幅悬挂的画布中轻点与之相符的那一幅。适合想用大都会艺术博物馆公共领域作品、在本机完成短测验的人。
+
+• 首页为四幅画布列队，标注「CALL THE LINEUP」
+• 「Deal」写下一条「ARTIST」或「TITLE」，并挂出四幅画布
+• 轻点相符的画布即点名；未中会盖上「MISS」，将该画布变暗，并保留该行
+• 已点名的作品休整并离开发牌池；归入「Saved」下的「Called」
+• 未中留在「Saved」的「Misses」
+• 「Undo」揭去最近一次点名或未中
+• 「Explore」检索大都会艺术博物馆，「Save」为 Loose，检索无响应或失败时显示本机架
+• 看板显示 Loose 池数量「LOOSE」
+• Go 计时（倒计时，随后「GO」；无题目开启时为「HOLD」），正确点名后显示守时百分比
+• 「How to call」说明页
+• 「Settings」箱柜计数、馆藏致谢、「Contact」、「Re-run onboarding」、「Reset the crate」
+• Siri / 快捷指令用语：「Open Quiz in Fortello」、「Call the lineup in Fortello」、「Open Explore in Fortello」、「Open Saved in Fortello」、「Open Settings in Fortello」、「Deal a line in Fortello」、「How to call in Fortello」
+
+仅限 iPhone 和 iPad 竖屏。仅浅色外观。作品、点名与未中均留在本机。

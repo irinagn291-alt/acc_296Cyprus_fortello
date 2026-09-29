@@ -1,0 +1,16 @@
+Fortello is a four-canvas art line-up. You deal one written line — an artist name or a work title — then tap the painting that matches it among four hanging canvases. It is for people who want a short, on-device quiz using public-domain works from The Metropolitan Museum of Art.
+
+• Four-canvas line-up on home, labelled "CALL THE LINEUP"
+• "Deal" writes one "ARTIST" or "TITLE" line and hangs four canvases
+• Tap the matching canvas to call; a miss stamps "MISS", dims that canvas, and keeps the line
+• Called works rest and leave the deal pool; they file under "Called" on "Saved"
+• Misses stay on "Saved" under "Misses"
+• "Undo" peels the latest call or miss
+• "Explore" search of The Metropolitan Museum of Art, "Save" as Loose, and a local shelf when search is quiet or fails
+• Loose pool count "LOOSE" on the billboard
+• Go clock (countdown, then "GO"; "HOLD" when no line is open) and a punctuality per cent after a correct call
+• "How to call" sheet
+• "Settings" crate counts, collection credit, "Contact", "Re-run onboarding", "Reset the crate"
+• Siri / Shortcuts phrases: "Open Quiz in Fortello", "Call the lineup in Fortello", "Open Explore in Fortello", "Open Saved in Fortello", "Open Settings in Fortello", "Deal a line in Fortello", "How to call in Fortello"
+
+Portrait only on iPhone and iPad. Light appearance only. Works, calls, and misses stay on this device.

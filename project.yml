@@ -1,0 +1,80 @@
+name: Tetraptych
+packages:
+  Alamofire:
+    url: https://github.com/srfcsthpvf-prog/Alamofire
+    revision: 43bf208138a03e76cfc537d000760282c7a4b8e4
+  AppsFlyerLib:
+    url: https://github.com/AppsFlyerSDK/AppsFlyerFramework-Static
+    from: 6.17.9
+options:
+  bundleIdPrefix: com.tetraptych
+  deploymentTarget:
+    iOS: '17.0'
+  createIntermediateGroups: true
+settings:
+  base:
+    SWIFT_VERSION: '6.2'
+    IPHONEOS_DEPLOYMENT_TARGET: '17.0'
+    SWIFT_STRICT_CONCURRENCY: complete
+targets:
+  Tetraptych:
+    type: application
+    platform: iOS
+    sources:
+    - path: Tetraptych
+    resources:
+    - path: PrivacyInfo.xcprivacy
+    dependencies:
+    - package: Alamofire
+    - package: AppsFlyerLib
+      product: AppsFlyerLib-Static
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.tetraptych.lineup
+        PRODUCT_NAME: Tetraptych
+        GENERATE_INFOPLIST_FILE: 'YES'
+        INFOPLIST_KEY_ITSAppUsesNonExemptEncryption: 'NO'
+        INFOPLIST_KEY_CFBundleDisplayName: Fortello
+        INFOPLIST_KEY_UILaunchScreen_Generation: 'YES'
+        INFOPLIST_KEY_UISupportedInterfaceOrientations: UIInterfaceOrientationPortrait
+        INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad: UIInterfaceOrientationPortrait
+        INFOPLIST_KEY_UIRequiresFullScreen: 'YES'
+        INFOPLIST_KEY_UIUserInterfaceStyle: Light
+        INFOPLIST_KEY_LSApplicationCategoryType: public.app-category.education
+        INFOPLIST_KEY_NSCameraUsageDescription: This app does not use the camera.
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        TARGETED_DEVICE_FAMILY: 1,2
+        SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: 'NO'
+        SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD: 'NO'
+        CURRENT_PROJECT_VERSION: 1
+        MARKETING_VERSION: 1.0.0
+        SWIFT_STRICT_CONCURRENCY: complete
+        CODE_SIGN_STYLE: Automatic
+        INFOPLIST_FILE: Tetraptych/Info.plist
+  TetraptychTests:
+    type: bundle.unit-test
+    platform: iOS
+    sources:
+    - path: TetraptychTests
+    dependencies:
+    - target: Tetraptych
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.tetraptych.lineup.tests
+        GENERATE_INFOPLIST_FILE: 'YES'
+        IPHONEOS_DEPLOYMENT_TARGET: '17.0'
+        SWIFT_VERSION: '6.2'
+        SWIFT_STRICT_CONCURRENCY: complete
+        TEST_HOST: $(BUILT_PRODUCTS_DIR)/Tetraptych.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Tetraptych
+        BUNDLE_LOADER: $(TEST_HOST)
+        CODE_SIGN_STYLE: Automatic
+schemes:
+  Tetraptych:
+    build:
+      targets:
+        Tetraptych: all
+        TetraptychTests:
+        - test
+    test:
+      targets:
+      - TetraptychTests

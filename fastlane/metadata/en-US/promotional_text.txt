@@ -1,0 +1,1 @@
+Deal writes an ARTIST or TITLE line and hangs four canvases. Tap the matching canvas. Called works rest. Misses stay on Saved. Undo peels the latest mark.

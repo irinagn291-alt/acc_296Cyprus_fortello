@@ -1,0 +1,17 @@
+The app does not ask for camera, photos, microphone, location, or tracking. No permission prompts appear, and there are no usage-description strings.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Fortello is a four-canvas art lineup. You deal one written line — an artist name or a work title — then tap the painting that matches it among four hanging canvases. It is for people who want a short, on-device quiz using public-domain works from The Metropolitan Museum of Art.
+
+No credentials or demo account are needed. From a cold launch on a physical device, wait if the screen stays empty for a few seconds, then a full-screen splash illustration appears with no text and no buttons. If onboarding has not been finished, three pages follow. Page 1: "Four canvases. One line." / "Deal writes an artist line or a title line. Home is the lineup, not a gallery list." Use "Skip" to finish onboarding or "Continue" to page 2. Page 2: "Call the matching canvas." / "Tap the true canvas. A miss dims that canvas, strikes it, and keeps the line." "Skip" or "Continue" to page 3. Page 3: "Called works rest." / "They leave the deal pool. Misses stay on Saved. Undo peels the latest mark." "Continue" finishes onboarding (no "Skip") and opens home. Home has no tab bar. The top label is "CALL THE LINEUP". On a physical device the crate starts empty: "Crate short." / "Save four works, then deal." / "Explore" (no "Deal" on this empty page). Tap "Explore". Caption "THE METROPOLITAN MUSEUM OF ART". Placeholder "Search a work". With a quiet query the local shelf lists ten public-domain Met works. Tap "Save" on four rows (a note can read "Saved as Loose."). Close with X ("Close"). Open "How to call" and tap "Deal" after four saves; that closes the sheet and deals. If that bottom button is "Call from Quiz", it only closes the sheet. Home then shows "ARTIST" or "TITLE", the written line, and "Tap the matching canvas." when the status is "CUED". Tap the matching canvas among the four. A miss stamps "MISS", dims that canvas, and keeps the line; status becomes "FAULT" and the next-tap line is "Miss stays. Tap the true canvas." After "CALLED", a bottom dock shows "Undo" and "Deal". Open "Saved" for "CALLS", "FAULTS", "Called", and "Misses". Open "Settings" for "Crate", "Collection" ("The Metropolitan Museum of Art", "Open access"), "Support" with "Contact", then "Undo", "Re-run onboarding", and "Reset the crate". A device never plants a demo crate; the iOS Simulator may skip onboarding and already show a dealt line. If a line is already open, tap the matching canvas. Siri phrases include "Open Quiz in Fortello" and "Deal a line in Fortello".
+
+Works, calls, and misses stay on this device. "Reset the crate" removes them here. Explore looks up public Met works; it does not create an account. On-screen support is "Settings", section "Support", control "Contact" ("tetraptych-lineup.pro/contact-us").
+
+There is no region lock. Copy is English. Counts and dates follow the device locale.
+
+No licence or regulated-industry paperwork applies. The app uses public-domain works from The Metropolitan Museum of Art and is not in a regulated industry. Collection credit is in "Settings", "Collection".
+
+The app does not show health, medical, or product-health information. It is a personal log only and gives no recommendations.
+
+The app does not scan barcodes or QR codes.
