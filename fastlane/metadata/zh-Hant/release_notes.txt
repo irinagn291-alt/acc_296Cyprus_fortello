@@ -1,1 +1,3 @@
-首次推出。Fortello 是適用於 iPhone 和 iPad 的四幅畫布藝術列隊（僅直向，淺色外觀，iOS 17.0）。「Deal」寫下一條「ARTIST」或「TITLE」並掛出四幅畫布。輕點相符的畫布即點名。未中會蓋上「MISS」，將該畫布變暗，並保留該行。已點名的作品休整並離開發牌池；歸入「Saved」下的「Called」。未中留在「Saved」的「Misses」。「Undo」揭去最近一次點名或未中。「Explore」搜尋大都會藝術博物館，「Save」為 Loose，搜尋無回應或失敗時顯示本機架。含「How to call」與「Settings」，以及館藏致謝、「Contact」、「Re-run onboarding」和「Reset the crate」。Siri / 捷徑用語：「Open Quiz in Fortello」、「Call the lineup in Fortello」、「Open Explore in Fortello」、「Open Saved in Fortello」、「Open Settings in Fortello」、「Deal a line in Fortello」、「How to call in Fortello」。作品、點名與未中均留在本機。
+Version 1.1 keeps Fortello polished and reliable.
+• Stability and performance improvements
+• Small refinements throughout the app

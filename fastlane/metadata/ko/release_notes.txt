@@ -1,1 +1,3 @@
-최초 출시. Fortello는 아이폰과 아이패드용 네 폭 미술 라인업입니다(세로만, 라이트 외관, iOS 17.0). "Deal"이 "ARTIST" 또는 "TITLE" 한 줄을 쓰고 캔버스 네 점을 겁니다. 맞는 캔버스를 탭해 콜합니다. 오답은 "MISS"를 찍고 그 캔버스를 흐리게 하며 줄은 그대로 둡니다. 콜한 작품은 쉬며 딜 풀에서 빠지고, "Saved"의 "Called"에 모입니다. 오답은 "Saved"의 "Misses"에 남습니다. "Undo"는 가장 최근 콜 또는 오답을 걷어냅니다. "Explore"는 메트로폴리탄 미술관을 검색하고, "Save"하면 "Loose"로 담으며, 검색이 잠잠하거나 실패하면 기기의 선반을 보여 줍니다. "How to call"과 "Settings"가 있으며, 컬렉션 크레딧, "Contact", "Re-run onboarding", "Reset the crate"를 포함합니다. 시리 / 단축어 문구: "Open Quiz in Fortello", "Call the lineup in Fortello", "Open Explore in Fortello", "Open Saved in Fortello", "Open Settings in Fortello", "Deal a line in Fortello", "How to call in Fortello". 작품, 콜, 오답은 이 기기에 남습니다.
+Version 1.1 keeps Fortello polished and reliable.
+• Stability and performance improvements
+• Small refinements throughout the app
