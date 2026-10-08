@@ -1,3 +1,3 @@
-Version 1.1 keeps Fortello polished and reliable.
+Version 1.7 keeps Fortello polished and reliable.
 • Stability and performance improvements
 • Small refinements throughout the app
